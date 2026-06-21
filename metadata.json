@@ -1,0 +1,6 @@
+{
+  "name": "Transformación Curricular",
+  "description": "Herramienta interactiva para explorar la Transformación Curricular 2024-2026 del Colegio Gustavo Restrepo IED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
